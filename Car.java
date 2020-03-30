@@ -21,8 +21,6 @@ public class Car {
         CarType = Car;
     }
     
-    public String getCarType() {
-        return CarType;
-    }
+   
 
 }
